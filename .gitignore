@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Debug/test artifacts from development
+divoom_debug.py
+divoom_debug2.py
+divoom_test.py
+test_screen_*.png
+test128_*.png
